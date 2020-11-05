@@ -20,7 +20,6 @@ int main(void) {
   B.AddElement(11);
 
   (A + B).WriteSet();
-  std::cout << "hola\n";
 
   return 0;
 }
